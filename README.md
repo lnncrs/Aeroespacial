@@ -5,6 +5,6 @@
 Universidade Federal do ABC - Bacharelado em Ciência e Tecnologia  
 Introdução as engenharias 2015/Q3
 
-### [Abrir a apresentação](./docs/ApresentacaoAeroespacial.ppsx)
+## [Abrir a apresentação](./docs/ApresentacaoAeroespacial.ppsx)
 
 ![SETI](./docs/images/planetalignment_white_big.jpg)
